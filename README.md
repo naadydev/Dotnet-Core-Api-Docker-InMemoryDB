@@ -1,10 +1,10 @@
 # CrowdLending POC API
 
 ## Requirements
-1- List of Funds with investment required
-2- Click on a Fund and submit an amount (between 100€ and 10.000€) for a funding;
-3- Can only submit an amount once per funding.
-4- Should be prepared for horizontal scaling.
+- List of Funds with investment required
+- Click on a Fund and submit an amount (between 100€ and 10.000€) for a funding;
+- Can only submit an amount once per funding.
+- Should be prepared for horizontal scaling.
 
 ## Tech Stack
 - .Net Core 3.1
